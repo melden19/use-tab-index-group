@@ -1,3 +1,3 @@
-### use-tab-index-group
+## use-tab-index-group
 
-### react hook for managing focus transition between inputs
+react hook for managing focus transition between inputs
